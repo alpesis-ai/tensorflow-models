@@ -1,0 +1,3 @@
+dm-sonnet-gpu==1.10
+ipython==5.4.1
+dill==0.2.7.1
