@@ -11,9 +11,11 @@ Prequisites
 - Tensorflow
 
 ::
+
     $ mkvirtualenv tensorflow-models
     # pip install tensorflow
     $ pip install -r requirements/xxxx.txt
+
     
 ==============================================================================
 Models
