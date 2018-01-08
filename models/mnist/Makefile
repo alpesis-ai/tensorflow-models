@@ -1,3 +1,6 @@
+pretty_cnn:
+	python prettycnn.py
+
 cnn:
 	python cnn.py
 
